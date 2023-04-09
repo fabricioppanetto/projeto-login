@@ -51,6 +51,7 @@ Telas Grandes: Acima de 1200px
     section#login > div#formulario {
         float: left;
         width: 50%;
+        position:relative ;
     }
 
     div#formulario > h1 {
